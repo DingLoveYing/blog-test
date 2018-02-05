@@ -1,0 +1,33 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: 丁的测试博客
+subtitle: "欢迎来到我的博客!"
+description: "我的blog"
+author: 吕丁浩的Github主页
+language: zh-cn  
+timezone: PRC
+
+
+url: /
+root: /
+permalink: docs/:year/:month/:day/:title/
+archive_dir: docs
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+theme: navy
+deploy:
+  type: git
+  repository: https://github.com/DingLoveYing/ding.github.io.git
+  branch: master
+  port: 22
+  delete: false
+
+highlight:
+  enable: true
+  line_number: false

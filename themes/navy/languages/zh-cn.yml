@@ -1,0 +1,28 @@
+menu:
+  guide: 指引
+  share: 分享
+  docs: 文档
+  about: 关于
+  search: 搜索
+
+index:
+  get_started: 开始使用
+
+page:
+  contents: 目录
+  back_to_top: 回到顶部
+  improve: 改进本文
+  prev: 上一页
+  next: 下一页
+  last_updated: 上次更新：%s
+
+sidebar:
+  guide:
+    started: 职场指引
+    new: 新人
+    absence: 请假
+  share:
+    nas: 家庭私有云
+    overview: 概述
+    security: Android安全与加固
+    explain: 说明

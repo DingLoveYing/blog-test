@@ -1,0 +1,8 @@
+guide:
+  started:
+    new: index.html
+share:
+  nas:
+    overview: index.html
+  security:
+    explain: mobile-security.html

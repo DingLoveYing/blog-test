@@ -1,0 +1,28 @@
+menu:
+  guide: Career Guide
+  share: Team Share
+  docs: Docs
+  about: About Us
+  search: Search
+
+index:
+  get_started: Get started
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  guide:
+    started: Career Started
+    new: New
+    absence: Absense Event
+  share:
+    nas: Family Private Cloud
+    overview: Overview
+    security: Android Security
+    explain: Explain
